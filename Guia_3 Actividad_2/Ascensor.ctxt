@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ascensor
+comment1.params=pisos_edificio\ sotanos\ piso_actual
+comment1.target=Ascensor(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ siguiente_piso_arriba()
+comment3.params=
+comment3.target=void\ siguiente_piso_abajo()
+comment4.params=
+comment4.target=void\ cuantos_pisos_atiende()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
